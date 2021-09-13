@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Drew! 👋
+
+- 🔭 I’m currently looking for employment as a Fullstack Web Developer
+
+- 💻 Fullstack Developer 
+- 🎓 Le Wagon Alumni Batch #698
+- 👨‍🔧 Mechanical Engineer
+- 🏂 Snowboarder
+
 
 <!--
 **a-jennings/a-jennings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
