@@ -2,7 +2,7 @@
 
 ### I'm an aspiring Fullstack Web Developer! 💻
 
-Hi! My name is Drew, an aspiring web developer who has recently completed a coding bootcamp with Le Wagon! After finishing working abroad for 4 years in the French Alps, I decided to take my previous mechanical engineering skills and focus on a starting a career in web development and computer programming. 👨‍💻
+Hi! My name is Drew, an aspiring web developer who has recently completed a coding bootcamp with Le Wagon! After finishing working abroad for 4 years in the French Alps, I decided to take my previous mechanical engineering skills and focus on starting a career in web development and computer programming. 👨‍💻
 
 Previously I have worked as a property maintenance worker and manager in the French Alps for a large tour operator, where I got to do a lot of snowboarding in my off time! 🏂
 
