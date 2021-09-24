@@ -11,6 +11,11 @@ Before that I did an apprenticeship in commercial and domestic mechanical gas en
 Other hobbies include trying to work through an ever growing video game collection, and being an experienced Dungeon Master. 🎲
 
 Thanks for stopping by! 🖖
+
+👨🏻‍🏫 I'm currently a part time teaching assistant for Le Wagon!
+
+🌱 I’m currently learning React and SASS!
+
 <!--
 **a-jennings/a-jennings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
