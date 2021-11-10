@@ -14,7 +14,7 @@ Thanks for stopping by! 🖖
 
 👨🏻‍🏫 I'm currently a part time teaching assistant for Le Wagon!
 
-🌱 I’m currently learning React and SASS!
+🌱 I’m currently learning React!
 
 <!--
 **a-jennings/a-jennings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
