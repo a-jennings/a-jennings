@@ -12,7 +12,7 @@ Other hobbies include trying to work through an ever growing video game collecti
 
 Thanks for stopping by! 🖖
 
-👨🏻‍🏫 I'm currently a part time teaching assistant for Le Wagon!
+👨🏻‍🏫 I'm currently a teaching assistant for Le Wagon coding bootcamp!
 
 🌱 I’m currently learning React!
 
